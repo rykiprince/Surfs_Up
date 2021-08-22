@@ -79,11 +79,11 @@ max | 83.000000 |
 
 </td><td>
   
-count | 1517.000000 |
+count | 1405.000000 |
 -----| ----------- |
-mean | 1405.000000 | 
-std | 0.216819 | 
-min | 0.541399 | 
+mean | 0.216819 | 
+std | 0.541399 | 
+min | 0.000000 | 
 25% | 0.000000 | 
 50% | 0.030000 | 
 75% | 0.150000 | 
@@ -93,4 +93,4 @@ max | 6.420000 |
 
 ![prcp_fig](https://user-images.githubusercontent.com/66225050/130338706-fb49bb7d-77fc-44d2-bf98-bd2383973c46.png)
 
-- From the tables and figure above. Comparing the rainfall intensity, there should be a little chance in Oahu raining heavily. If there is, it could be the due to the tropical storm. But these high rainfall is outline of the whole dataset. The majority of precipitation in Oahu is lower than 1.00. Thus, the rainfall should cause low impact to the ice cream and surf store as well.
+- From the tables and figure above. Comparing the rainfall intensity, there should be a little chance in Oahu raining heavily. If there is, it could be the due to the tropical storm. But these high rainfall is outline of the whole dataset. The majority of precipitation in Oahu is lower than 0.15. Thus, the rainfall should cause low impact to the ice cream and surf store as well.
