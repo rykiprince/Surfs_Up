@@ -37,7 +37,7 @@ max | 83.000000 |
 
 ![temp_fig](https://user-images.githubusercontent.com/66225050/130332733-5913e906-092c-491d-99b6-8ff300a5fcad.png)
 
-- The average tempurature during June and December are similar in Oahu, only appx. 3°F differentce.
+- The average tempurature during June and December are similar in Oahu, only appx. 3°F difference.
 - During June and December, the temperatures are mostly in between **70°F** and **80°F**.
 - The lowest temperature was recored in December at **56°F**. And the highest temperatrue recorded in June at **85°F**, but it is only 2°F higher than the highest temperature in December, 83°F. 
 
